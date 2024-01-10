@@ -15,6 +15,6 @@
 
 ### Запуск автотестов
 
-pytest --cov --cov-report=html RE
+pytest --cov --cov-report=html
 
 
